@@ -56,7 +56,7 @@ function App() {
         </div>
 
         <div className="flex flex-col gap-4">
-          {/* Slider */}
+       
           <div className="flex items-center gap-3">
             <input
               type="range"
@@ -69,7 +69,7 @@ function App() {
             <label className="text-white font-medium">Length: {length}</label>
           </div>
 
-          {/* Checkboxes */}
+        
           <div className="flex justify-between">
             <label className="flex items-center gap-2 text-white">
               <input
